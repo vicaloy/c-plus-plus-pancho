@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1506638573 source:c:\users\java\desktop\panchosabroson\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1506638573 c:\users\java\desktop\panchosabroson\boolean.h
+
+1507334860 source:c:\users\java\desktop\panchosabroson\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1507334622 c:\users\java\desktop\panchosabroson\fecha.h
+	"boolean.h"
+
+1507334974 source:c:\users\java\desktop\panchosabroson\main.cpp
+	<stdio.h>
+	"menu.h"
+	"fabrica.h"
+
+1507326921 source:c:\users\java\desktop\panchosabroson\string.cpp
+	<stdio.h>
+	"string.h"
+
+1505514700 c:\users\java\desktop\panchosabroson\string.h
+	"boolean.h"
+
+1506720315 source:c:\users\java\desktop\panchosabroson\tipovariedad.cpp
+	<stdio.h>
+	"tipoVariedad.h"
+
+1506720315 c:\users\java\desktop\panchosabroson\tipovariedad.h
+
+1507328609 source:c:\users\java\desktop\panchosabroson\especial.cpp
+	<stdio.h>
+	"especial.h"
+
+1506984869 c:\users\java\desktop\panchosabroson\especial.h
+	"string.h"
+
+1506721382 source:c:\users\java\desktop\panchosabroson\premium.cpp
+	<stdio.h>
+	"premium.h"
+	"boolean.h"
+
+1506721333 c:\users\java\desktop\panchosabroson\premium.h
+	"boolean.h"
+
+1507336331 source:c:\users\java\desktop\panchosabroson\fabrica.cpp
+	"fabrica.h"
+	"pancho.h"
+	<stdio.h>
+	<stdlib.h>
+
+1507335874 c:\users\java\desktop\panchosabroson\fabrica.h
+	"pancho.h"
+
+1507067455 c:\users\java\desktop\panchosabroson\pancho.h
+	"tipovariedad.h"
+	"especial.h"
+	"premium.h"
+	"Fecha.h"
+
+1507328504 source:c:\users\java\desktop\panchosabroson\pancho.cpp
+	"pancho.h"
+	"stdio.h"
+
+1507069029 c:\users\java\desktop\panchosabroson\menu.h
+
+1507325749 source:c:\users\java\desktop\panchosabroson\menu.cpp
+	<stdio.h>
+	"menu.h"
+
